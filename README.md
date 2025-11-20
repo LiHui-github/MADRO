@@ -2,13 +2,6 @@
 
 MADRO is an end-to-end multi-agent framework that empowers LLMs to detect cross-domain misinformation through automated analysis and optimized decision-making.
 
-![MADRO架构图](docs/1.png)
-
-<center><em>Overview of the MADRO framework</em></center>
-
-![MADRO架构图](docs/rule_optimize_1.pdf)
-
-<center><em>Overview of the Decision Rule Optimization.</em></center>
 
 ## ⚙️ Installation
 
